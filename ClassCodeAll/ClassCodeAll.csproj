@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  <StartupObject>ClassCodeAll.StatementsExpressionAndOperators.p4IncDecOpe</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="StatementsExpressionAndOperators\Notes\" />
+  </ItemGroup>
+
+</Project>
