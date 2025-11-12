@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassCodeAll.StatementsAndOperators
+namespace ClassCodeAll.StatementsExpressionAndOperators.Operators
 {
     internal class p1ArithmeticAndRelational
     {

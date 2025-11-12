@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassCodeAll.StatementsExpressionAndOperators
+namespace ClassCodeAll.StatementsExpressionAndOperators.Operators
 {
     internal class p4IncDecOpe
     {
