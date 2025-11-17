@@ -5,11 +5,11 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	  <StartupObject>ClassCodeAll.StatementsExpressionAndOperators.Selection_Construct_or_Statement.JumpStatement.p3goto</StartupObject>
+	  <StartupObject>ClassCodeAll.StatementsExpressionAndOperators.Selection_Construct_or_Statement.JumpStatement.p1Break</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="StatementsExpressionAndOperators\Notes\" />
+    <Folder Include="4Array\Notes\" />
   </ItemGroup>
 
 </Project>

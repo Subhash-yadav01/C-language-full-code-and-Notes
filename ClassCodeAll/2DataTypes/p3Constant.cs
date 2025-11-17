@@ -12,7 +12,7 @@ namespace ClassCodeAll.DataTypes
         // Pi is a constant and its value cannot be changed
         static void Main(string[] args)
         {
-            Console.WriteLine(Pi);
+            Console.WriteLine("The pi value is: "+ Pi);
         }
     }
 }
